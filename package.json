@@ -1,6 +1,6 @@
 {
   "name": "react-native-sbb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,8 @@
   "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2"
+  },
+  "dependencies": {
+    "rn-fetch-blob": "^0.10.13"
   }
 }
